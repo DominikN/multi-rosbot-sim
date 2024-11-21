@@ -2,6 +2,8 @@
 
 Demo showing how to spawn multiple ROSbots in Gazebo
 
+![mutliple ROSbots](./multiple-rosbots.png)
+
 ## Quick start
 
 1. Pull Docker images with:
